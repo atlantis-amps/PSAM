@@ -1,0 +1,18 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+@EXPLICIT
+https://repo.continuum.io/pkgs/main/linux-64/python-3.8.2-h191fe78_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/geos-3.8.0-he6710b0_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/libspatialindex-1.9.3-h2531618_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/libcurl-7.67.0-h20c2e04_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/proj-6.2.1-haa6030c_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/pyproj-2.6.1.post1-py38hb3025e9_1.conda
+https://conda.anaconda.org/conda-forge/noarch/geopy-2.1.0-pyhd3deb0d_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/numpy-1.20.1-py38h93e21f0_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/pandas-1.2.4-py38h2531618_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/shapely-1.7.1-py38h98ec03d_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/fiona-1.8.13.post1-py38hc820daa_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/geopandas-0.8.1-py_0.conda
+https://anaconda.org/conda-forge/pyinterp/2023.5.0/download/linux-64/pyinterp-2023.5.0-mkl_py38h03b8978_0.conda
+https://anaconda.org/conda-forge/xarray/2023.8.0/download/noarch/xarray-2023.8.0-pyhd8ed1ab_0.conda

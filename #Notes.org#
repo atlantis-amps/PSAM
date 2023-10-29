@@ -1,0 +1,30 @@
+* Oceanographic model integration
+- code from Su Kyong Yun
+- shape files
+  - Do you have the other files (dbf, cpg, prj, qmd)
+- Start woth the interpolation
+* New meeting <2023-10-06 Fri>
+- Yoshiro is the new oceanographer part of the team
+- Jeol baker is the new managewr that is taking over tessa Francis
+- Agenda:
+Attendees: Tessa Francis, Isaac, Bob McKane, Caren Barcelo, Veronika Polushina, Chris Harvey, Alaia Morell, Long Jiang, Yoshihiro Yagi, Tarang Khangaokar, Allen Brookes, Kevin Bogue, Sonali Chokshi, Jonathan Halama, Sukyong Yun, Marielle Larson, Joel Baker, Javier Porobic
+
+1. Introduce Joel Baker
+2. Check in on proof-of-concept runs
+   - The VELMA team is moving the deadline to the Atlantis
+   - The VELMA team is improving the output ready to go
+3. Within-model sensitivity testing (bringing this idea forward from Sept workshop)
+4. Links between PSIMF scenarios and regional needs
+ a) Nutrient scenarios (management needs, research questions)
+ b) Development/Land use scenarios (options and priorities)
+ c) Contaminant scenarios (feasibility and utility, and which contaminant)
+5. Salmon modeling - status and next steps
+6. Webinar update
+7. Other updates from the team
+   1. VELMA workshop
+* Meeting  <2023-10-20 Fri>
+**  Task
+- Send the bash file
+- Work on the sampling
+- Check Albi file to check the transformation
+- 
